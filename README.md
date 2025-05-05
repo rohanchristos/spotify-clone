@@ -1,2 +1,2 @@
 # spotify-clone
-respnsive frontend clone of spotify
+responsive frontend clone of spotify
